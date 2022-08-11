@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=akmalhisyammm)
+![](https://hit.yhype.me/github/profile?user_id=74256288)
+
 <!--
 **akmalhisyammm/akmalhisyammm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
