@@ -3,6 +3,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=akmalhisyammm)
 ![](https://hit.yhype.me/github/profile?user_id=74256288)
 
+<div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akmalhisyammm&show_icons=true&theme=react&count_private=true&hide=contribs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalhisyammm&layout=compact&theme=react&hide=php&langs_count=6" />
+</div>
+
 <!--
 **akmalhisyammm/akmalhisyammm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
