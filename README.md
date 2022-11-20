@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40akmalhisyammm&style=social&url=https%3A%2F%2Ftwitter.com%2Fakmalhisyammm)](https://twitter.com/akmalhisyammm)
 ![Profile views](https://komarev.com/ghpvc/?username=akmalhisyammm)
 ![](https://hit.yhype.me/github/profile?user_id=74256288)
 
